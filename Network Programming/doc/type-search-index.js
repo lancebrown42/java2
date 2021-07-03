@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"HWNetworkGetNames"},{"p":"<Unnamed>","l":"HWNetworkWebPage"},{"p":"<Unnamed>","l":"MyClient"},{"p":"<Unnamed>","l":"MyServer"}];updateSearchResults();
