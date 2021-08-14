@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"NoteKeeperLB","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"NoteKeeperLB","l":"NoteKeeperLB()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"NoteKeeperLB","l":"readNote()"},{"p":"<Unnamed>","c":"NoteKeeperLB","l":"readPath()"},{"p":"<Unnamed>","c":"NoteKeeperLB","l":"ReadStringFromUser()"}];updateSearchResults();
