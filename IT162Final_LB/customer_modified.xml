@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Customers xmlns="https://www.w3.org/1999/xhtml">
+    	
+    <Customer id="1">
+        		
+        <name>ACME Hauling</name>
+        		
+        <type>commercial</type>
+        		
+        <address>123 Main Street</address>
+        		
+        <city>Cincinnati</city>
+        		
+        <state>OH</state>
+        		
+        <zipcode>45211</zipcode>
+        	
+        <phone>376-313-8693</phone>
+        <contact>Beilul Copner</contact>
+        <email>LXXRVEEICP@gmail.com</email>
+    </Customer>
+    	
+    <Customer id="2">
+        		
+        <name>AJ Newtown</name>
+        		
+        <type>residential</type>
+        		
+        <address>1 Sunny Way</address>
+        		
+        <city>Cincinnati</city>
+        		
+        <state>OH</state>
+        		
+        <zipcode>45010</zipcode>
+        	
+        <phone>401-557-9459</phone>
+        <contact>Joannes Greatbach</contact>
+        <email>3C4AKNTKC5@gmail.com</email>
+    </Customer>
+    	
+    <Customer id="3">
+        		
+        <name>Foster Burgers</name>
+        		
+        <type>commercial</type>
+        		
+        <address>2000 Chester Road</address>
+        		
+        <city>Cincinnati</city>
+        		
+        <state>OH</state>
+        		
+        <zipcode>45242</zipcode>
+        	
+        <phone>703-641-9697</phone>
+        <contact>Cordey Ferrari</contact>
+        <email>F4C25C2EOD@gmail.com</email>
+    </Customer>
+    
+</Customers>
